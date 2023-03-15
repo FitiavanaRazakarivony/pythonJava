@@ -1,0 +1,100 @@
+@font-face {
+    font-family: bBeachOcean;
+    src: url(../font/bBeachOcean.ttf);
+}
+
+.grand-titre h3 {
+    /* margin-right: 210px; */
+    width: auto;
+    margin-top: 20px;
+    position: absolute;
+    font-size: 25px;
+    left: 290px;
+    font-family: cursive;
+    color: white;
+}
+
+.parent {
+    /* border: rgb(70, 204, 70) 2px solid; */
+    width: 799px;
+    position: absolute;
+    margin-top: -10PX;
+    height: 380px;
+    padding-left: 94px;
+    background-color: #344869;
+    border-radius: 20px;
+}
+
+.parent .titre .creer-compte {
+    color: white;
+}
+
+.Partie-2 {
+    margin-right: 114px;
+    margin-top: 70px;
+    color: white;
+}
+
+.Partie-2 .btn-connecter {
+    font-family: cursive;
+}
+
+.titre {
+    font-family: cursive;
+}
+
+.creer-compte {
+    margin-right: 114px;
+    margin-top: 70px;
+    color: white;
+}
+
+.mail-inscrire p {
+    color: white;
+    font-family: cursive;
+}
+
+.connecter p {
+    color: white;
+}
+
+.mdp-oublie {
+    font-family: cursive;
+}
+
+.input-inscrire {
+    width: 244px;
+    height: 34px;
+}
+
+.input-connecter {
+    width: 250px;
+    height: 37px;
+}
+
+.input-mdp {
+    width: 250px;
+    height: 37px;
+}
+
+.btn-connecter .boutton-connecter {
+    width: 120px;
+    height: 30px;
+    border-radius: 30px;
+    background-color: #03f6fe;
+    border: none;
+    font-weight: bold;
+}
+
+.mail-inscrire .btn-inscrit .boutton-inscrit {
+    width: 120px;
+    height: 30px;
+    border-radius: 30px;
+    background-color: #03f6fe;
+    border: none;
+    font-weight: bold;
+}
+
+.btn-connecter {
+    font-family: cursive;
+}
